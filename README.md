@@ -24,7 +24,7 @@ Train the model with constrained domain adaptation. Create the Results folder `r
 ```
 python main.py --dataset='data/transverse/' --target_dataset='data/transverse/' 
                          --folders="[('Wat', png_transform, False), ('GT', gt_transform, False)]"
-                         --target_folders="[('Inn', png_transform, False), ('GT', gt_transform, False)]+"
+                         --target_folders="[('IP', png_transform, False), ('GT', gt_transform, False)]+"
                                         "[('GT', gt_transform, False), ('GT', gt_transform, False)]"
                          --grp_regex='Subj_\\d+_\\d+'
                          --losses="[('CrossEntropy', {'idc': [0,1], 'weights':[1,1]}, None, None, None, 0),"
