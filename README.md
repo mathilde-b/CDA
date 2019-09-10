@@ -7,7 +7,7 @@ Pytorch implementation of our method for adapting Semantic Segmentation using co
 ![](Compare_Segmentations.png)
 
 # Installation
-Install PyTorch from http://pytorch.org with Python 2 and CUDA 8.0
+Install PyTorch from http://pytorch.org with Python 3.6 and CUDA 8.0
 
 # Dataset
 The dataset is available at https://ivdm3seg.weebly.com/data.html. We used the Water (Wat) modality as the Source domain, and the In-Phase (IP) modality as the Target domain. Note: in our experiments we rotated the data from the sagittal plane to the transverse plane.
