@@ -3,7 +3,8 @@
 Pytorch implementation of our method for adapting Semantic Segmentation using constrained optimization. We compare to adversarial adaptation, using the method proposed here : https://github.com/wasidennis/AdaptSegNet.
 
 # Paper
-Constrained domain adaptation for segmentation.
+
+[Constrained domain adaptation for segmentation.](https://arxiv.org/abs/1908.02996)
  <br />Mathilde Bateson, Jose Dolz, Hoel Kervadec, Herve Lombaert, Ismail Ben Ayed <br />
 International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI).
 
