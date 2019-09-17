@@ -8,7 +8,7 @@ Constrained domain adaptation for segmentation.
 International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI).
 
 Please cite our paper if you find it useful for your research.
-
+```
 @article{Bateson2019ConstrainedDA,
   title={Constrained domain adaptation for segmentation},
   author={Mathilde Bateson and Jose Dolz and Hoel Kervadec and Herve Lombaert and Ismail Ben Ayed},
@@ -16,6 +16,7 @@ Please cite our paper if you find it useful for your research.
   year={2019},
   volume={abs/1908.02996}
 }
+```
 
 ## Example Results
 
