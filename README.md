@@ -4,7 +4,7 @@ Pytorch implementation of our method for adapting Semantic Segmentation using co
 
 # Paper
 Constrained domain adaptation for segmentation.
-Mathilde Bateson, Jose Dolz, Hoel Kervadec, Herv´e Lombaert, Ismail Ben Ayed
+ <br />Mathilde Bateson, Jose Dolz, Hoel Kervadec, Herve Lombaert, Ismail Ben Ayed <br />
 International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI).
 
 Please cite our paper if you find it useful for your research.
