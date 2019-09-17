@@ -1,6 +1,21 @@
 # Constrained Domain Adaptation
-Constrained domain adaptation for segmentation.
+
 Pytorch implementation of our method for adapting Semantic Segmentation using constrained optimization. We compare to adversarial adaptation, using the method proposed here : https://github.com/wasidennis/AdaptSegNet.
+
+# Paper
+Constrained domain adaptation for segmentation.
+Mathilde Bateson, Jose Dolz, Hoel Kervadec, Herv´e Lombaert, Ismail Ben Ayed
+International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI).
+
+Please cite our paper if you find it useful for your research.
+
+@article{Bateson2019ConstrainedDA,
+  title={Constrained domain adaptation for segmentation},
+  author={Mathilde Bateson and Jose Dolz and Hoel Kervadec and Herve Lombaert and Ismail Ben Ayed},
+  journal={ArXiv},
+  year={2019},
+  volume={abs/1908.02996}
+}
 
 ## Example Results
 
