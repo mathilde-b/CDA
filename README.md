@@ -10,7 +10,7 @@ International Conference on Medical Image Computing and Computer Assisted Interv
 
 Please cite our paper if you find it useful for your research.
 ```
-@inproceedings{DBLP:conf/miccai/BatesonKDLA19,
+@inproceedings{BatesonCDA,
   author    = {Mathilde Bateson and
                Hoel Kervadec and
                Jose Dolz and
