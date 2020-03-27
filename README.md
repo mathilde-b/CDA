@@ -10,13 +10,21 @@ International Conference on Medical Image Computing and Computer Assisted Interv
 
 Please cite our paper if you find it useful for your research.
 ```
-@article{Bateson2019ConstrainedDA,
-  title={Constrained domain adaptation for segmentation},
-  author={Mathilde Bateson and Jose Dolz and Hoel Kervadec and Herve Lombaert and Ismail Ben Ayed},
-  journal={ArXiv},
-  year={2019},
-  volume={abs/1908.02996}
-}
+@inproceedings{DBLP:conf/miccai/BatesonKDLA19,
+  author    = {Mathilde Bateson and
+               Hoel Kervadec and
+               Jose Dolz and
+               Herv{\'{e}} Lombaert and
+               Ismail Ben Ayed},
+  title     = {Constrained Domain Adaptation for Segmentation},
+  booktitle = {Medical Image Computing and Computer Assisted Intervention - {MICCAI}
+               2019 - 22nd International Conference, Shenzhen, China, October 13-17,
+               2019, Proceedings, Part {II}},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {11765},
+  pages     = {326--334},
+  publisher = {Springer},
+  year      = {2019}}
 ```
 
 ## Example Results
